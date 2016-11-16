@@ -1,0 +1,2962 @@
+{
+    "1999": {
+        "top_phrases": [
+            {
+                "count": 6, 
+                "token": "copyright", 
+                "global": 0.20159011582911052, 
+                "local": 0.04062379532674127
+            }, 
+            {
+                "count": 3, 
+                "token": "seattle", 
+                "global": 0.10597880426273812, 
+                "local": 0.10420749667108142
+            }, 
+            {
+                "count": 2, 
+                "token": "directive on electronic signatures", 
+                "global": 0.10416493872401864, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 4, 
+                "token": "wto", 
+                "global": 0.09341612035954211, 
+                "local": 0.0973980756296097
+            }, 
+            {
+                "count": 3, 
+                "token": "information society", 
+                "global": 0.0917519258436545, 
+                "local": 0.06014650449395884
+            }, 
+            {
+                "count": 2, 
+                "token": "schwaiger report", 
+                "global": 0.08946999090954291, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "directive relating", 
+                "global": 0.08738912581066227, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "mr sasi", 
+                "global": 0.08566692249794136, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "lifts", 
+                "global": 0.08466393264527586, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "millennium round", 
+                "global": 0.07846020973855765, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "diversities", 
+                "global": 0.07349632876849144, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "oecd", 
+                "global": 0.06902384708404861, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 2, 
+                "token": "visitors", 
+                "global": 0.06788811973191948, 
+                "local": 0.06947166444738762
+            }, 
+            {
+                "count": 2, 
+                "token": "liability", 
+                "global": 0.06579607612134057, 
+                "local": 0.07450314227130171
+            }, 
+            {
+                "count": 3, 
+                "token": "scope", 
+                "global": 0.06308019172208847, 
+                "local": 0.06984978299493837
+            }, 
+            {
+                "count": 2, 
+                "token": "doors", 
+                "global": 0.06307780151660064, 
+                "local": 0.06947166444738762
+            }, 
+            {
+                "count": 2, 
+                "token": "members of parliament", 
+                "global": 0.05825067300079068, 
+                "local": 0.06947166444738762
+            }, 
+            {
+                "count": 1, 
+                "token": "need for international economic regulation", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "time of interdependence", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "bearer of new freedoms", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "electronic declaration of intent", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "directive exempts national contract law", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "change of colour", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "brian crawley", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "rules of global commerce", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "suitability for everyday use", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "team of quaestors", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "major global influence", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "comprehensive french draft law", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }, 
+            {
+                "count": 1, 
+                "token": "building designers", 
+                "global": 0.05758735994750195, 
+                "local": 0.04155225521173368
+            }
+        ], 
+        "size": 17
+    }, 
+    "2002": {
+        "top_phrases": [
+            {
+                "count": 3, 
+                "token": "copyright", 
+                "global": 0.21549079433785748, 
+                "local": 0.04672045975826622
+            }, 
+            {
+                "count": 1, 
+                "token": "fundamental plank", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "distribution of european cinematographic works", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "considerable concern that member states", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "fundamental timidity", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "digital cinema", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "world of competition", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "house with great speed", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "commission publish evaluation reports", 
+                "global": 0.12311661102895521, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "copyright owners", 
+                "global": 0.12311661102895521, 
+                "local": 0.07989770717009745
+            }, 
+            {
+                "count": 1, 
+                "token": "world apart", 
+                "global": 0.11569122249271897, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "main premise", 
+                "global": 0.11569122249271897, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "trademark law", 
+                "global": 0.11569122249271897, 
+                "local": 0.07989770717009745
+            }, 
+            {
+                "count": 1, 
+                "token": "shirts", 
+                "global": 0.11569122249271897, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "considerable involvement", 
+                "global": 0.11569122249271897, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "world of industry", 
+                "global": 0.11569122249271897, 
+                "local": 0.08568429001658119
+            }, 
+            {
+                "count": 1, 
+                "token": "trademark holder", 
+                "global": 0.11569122249271897, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "numerous reports", 
+                "global": 0.11134764864573601, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "nera study", 
+                "global": 0.11134764864573601, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "information society \u2013", 
+                "global": 0.11134764864573601, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "outright", 
+                "global": 0.10826583395648273, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "audiovisual heritage", 
+                "global": 0.10826583395648273, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "democratic approach", 
+                "global": 0.10587539277121373, 
+                "local": 0.08568429001658119
+            }, 
+            {
+                "count": 1, 
+                "token": "forthcoming meetings", 
+                "global": 0.10587539277121373, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "international exhaustion", 
+                "global": 0.10587539277121373, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "small measures", 
+                "global": 0.10587539277121373, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "describe", 
+                "global": 0.10587539277121373, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "timidity", 
+                "global": 0.10392226010949977, 
+                "local": 0.09557651873098584
+            }, 
+            {
+                "count": 1, 
+                "token": "electronic commerce directive", 
+                "global": 0.10392226010949977, 
+                "local": 0.08568429001658119
+            }, 
+            {
+                "count": 1, 
+                "token": "own investigations", 
+                "global": 0.10392226010949977, 
+                "local": 0.09557651873098584
+            }
+        ], 
+        "size": 5
+    }, 
+    "2003": {
+        "top_phrases": [
+            {
+                "count": 17, 
+                "token": "software", 
+                "global": 0.3700278756690589, 
+                "local": 0.22402256013912167
+            }, 
+            {
+                "count": 15, 
+                "token": "copyright", 
+                "global": 0.30787782220972204, 
+                "local": 0.07405151383522482
+            }, 
+            {
+                "count": 9, 
+                "token": "patents", 
+                "global": 0.18472669332583322, 
+                "local": 0.12909801951106292
+            }, 
+            {
+                "count": 5, 
+                "token": "patentability", 
+                "global": 0.1422708991315033, 
+                "local": 0.11095806169771405
+            }, 
+            {
+                "count": 5, 
+                "token": "european patent convention", 
+                "global": 0.13550849202721343, 
+                "local": 0.10445064945554139
+            }, 
+            {
+                "count": 6, 
+                "token": "patent", 
+                "global": 0.1305980737655502, 
+                "local": 0.10046881645301486
+            }, 
+            {
+                "count": 12, 
+                "token": "directive", 
+                "global": 0.11412081072851193, 
+                "local": 0.11195918086641943
+            }, 
+            {
+                "count": 5, 
+                "token": "european patent office", 
+                "global": 0.11349204328256708, 
+                "local": 0.09940310837935092
+            }, 
+            {
+                "count": 8, 
+                "token": "innovation", 
+                "global": 0.1049120228851825, 
+                "local": 0.10227324430751755
+            }, 
+            {
+                "count": 4, 
+                "token": "software patents", 
+                "global": 0.10403956432539631, 
+                "local": 0.08142910341710519
+            }, 
+            {
+                "count": 4, 
+                "token": "inventions", 
+                "global": 0.09790792949811937, 
+                "local": 0.08356051956443311
+            }, 
+            {
+                "count": 7, 
+                "token": "medium-sized enterprises", 
+                "global": 0.09319043738517456, 
+                "local": 0.11419531612260442
+            }, 
+            {
+                "count": 3, 
+                "token": "patenting", 
+                "global": 0.08644416617992734, 
+                "local": 0.07598229381973154
+            }, 
+            {
+                "count": 4, 
+                "token": "music", 
+                "global": 0.08562321357566632, 
+                "local": 0.06223143530937674
+            }, 
+            {
+                "count": 3, 
+                "token": "computer-implemented inventions", 
+                "global": 0.08272069373909663, 
+                "local": 0.06904932182871365
+            }, 
+            {
+                "count": 3, 
+                "token": "se", 
+                "global": 0.07758162277549736, 
+                "local": 0.0610718275628289
+            }, 
+            {
+                "count": 3, 
+                "token": "de", 
+                "global": 0.07121630459486131, 
+                "local": 0.039845408805425815
+            }, 
+            {
+                "count": 3, 
+                "token": "invention", 
+                "global": 0.07121630459486131, 
+                "local": 0.058348306567933585
+            }, 
+            {
+                "count": 2, 
+                "token": "patent laws", 
+                "global": 0.0661165350274663, 
+                "local": 0.054323535517020696
+            }, 
+            {
+                "count": 2, 
+                "token": "piece of software", 
+                "global": 0.0661165350274663, 
+                "local": 0.054323535517020696
+            }, 
+            {
+                "count": 14, 
+                "token": "\u2013mr president", 
+                "global": 0.0654360572091358, 
+                "local": 0.12041798094308728
+            }, 
+            {
+                "count": 6, 
+                "token": "market", 
+                "global": 0.06522702442716082, 
+                "local": 0.07845677862981676
+            }, 
+            {
+                "count": 2, 
+                "token": "computer-implemented invention", 
+                "global": 0.0636342200669125, 
+                "local": 0.054323535517020696
+            }, 
+            {
+                "count": 10, 
+                "token": "commissioner", 
+                "global": 0.06192852072090666, 
+                "local": 0.10198897241178967
+            }, 
+            {
+                "count": 2, 
+                "token": "artistic copyright", 
+                "global": 0.06187298957370893, 
+                "local": 0.04805189764961863
+            }, 
+            {
+                "count": 2, 
+                "token": "marginal cost", 
+                "global": 0.06187298957370893, 
+                "local": 0.054323535517020696
+            }, 
+            {
+                "count": 9, 
+                "token": "ladies", 
+                "global": 0.060991676411041154, 
+                "local": 0.09477064501359786
+            }, 
+            {
+                "count": 2, 
+                "token": "europa", 
+                "global": 0.06050687307021289, 
+                "local": 0.042988459948008706
+            }, 
+            {
+                "count": 2, 
+                "token": "mccarthy report", 
+                "global": 0.06050687307021289, 
+                "local": 0.054323535517020696
+            }, 
+            {
+                "count": 2, 
+                "token": "software industry", 
+                "global": 0.06050687307021289, 
+                "local": 0.04603288121914244
+            }
+        ], 
+        "size": 43
+    }, 
+    "2000": {
+        "top_phrases": [
+            {
+                "count": 21, 
+                "token": "copyright", 
+                "global": 0.3346446175737811, 
+                "local": 0.07401201430902987
+            }, 
+            {
+                "count": 10, 
+                "token": "de", 
+                "global": 0.18430434858801711, 
+                "local": 0.09481941672125167
+            }, 
+            {
+                "count": 9, 
+                "token": "information society", 
+                "global": 0.13055184353087151, 
+                "local": 0.09392589277379995
+            }, 
+            {
+                "count": 5, 
+                "token": "hr", 
+                "global": 0.12832979387714458, 
+                "local": 0.061472396039644245
+            }, 
+            {
+                "count": 5, 
+                "token": "van", 
+                "global": 0.12009322622938824, 
+                "local": 0.06553078054504147
+            }, 
+            {
+                "count": 4, 
+                "token": "als", 
+                "global": 0.10925308921992072, 
+                "local": 0.05242462443603318
+            }, 
+            {
+                "count": 24, 
+                "token": "\u2013mr president", 
+                "global": 0.0870918933525182, 
+                "local": 0.14737193787230127
+            }, 
+            {
+                "count": 4, 
+                "token": "vi", 
+                "global": 0.08486995156798993, 
+                "local": 0.04991634103654249
+            }, 
+            {
+                "count": 3, 
+                "token": "ich", 
+                "global": 0.07205593573763294, 
+                "local": 0.03931846832702488
+            }, 
+            {
+                "count": 6, 
+                "token": "definition", 
+                "global": 0.07149980266919827, 
+                "local": 0.0760493172872584
+            }, 
+            {
+                "count": 7, 
+                "token": "men", 
+                "global": 0.07055954970640231, 
+                "local": 0.07039062311110043
+            }, 
+            {
+                "count": 3, 
+                "token": "europa", 
+                "global": 0.07046498621888109, 
+                "local": 0.04603449604605409
+            }, 
+            {
+                "count": 12, 
+                "token": "example", 
+                "global": 0.06966545150933445, 
+                "local": 0.09120342961279952
+            }, 
+            {
+                "count": 3, 
+                "token": "digital tv", 
+                "global": 0.06711399514897914, 
+                "local": 0.05424411743128093
+            }, 
+            {
+                "count": 9, 
+                "token": "directive", 
+                "global": 0.06645130501076013, 
+                "local": 0.05994613990764027
+            }, 
+            {
+                "count": 10, 
+                "token": "regard", 
+                "global": 0.06642618365237322, 
+                "local": 0.09481941672125167
+            }, 
+            {
+                "count": 11, 
+                "token": "rapporteur", 
+                "global": 0.06425893490879285, 
+                "local": 0.08698922789395168
+            }, 
+            {
+                "count": 6, 
+                "token": "internet", 
+                "global": 0.06416324965538475, 
+                "local": 0.03799778156707542
+            }, 
+            {
+                "count": 4, 
+                "token": "works", 
+                "global": 0.06276404037669463, 
+                "local": 0.028823709879315994
+            }, 
+            {
+                "count": 3, 
+                "token": "artist", 
+                "global": 0.0617398183951513, 
+                "local": 0.04603449604605409
+            }, 
+            {
+                "count": 3, 
+                "token": "wipo", 
+                "global": 0.061332295298670514, 
+                "local": 0.034508402034121144
+            }, 
+            {
+                "count": 7, 
+                "token": "consumers", 
+                "global": 0.060430887805024563, 
+                "local": 0.06122383291574992
+            }, 
+            {
+                "count": 7, 
+                "token": "internal market", 
+                "global": 0.06029028307129696, 
+                "local": 0.06534577442390557
+            }, 
+            {
+                "count": 3, 
+                "token": "se", 
+                "global": 0.060233245165058936, 
+                "local": 0.04359946534281577
+            }, 
+            {
+                "count": 5, 
+                "token": "i.e", 
+                "global": 0.05903037827668495, 
+                "local": 0.06942521812815312
+            }, 
+            {
+                "count": 3, 
+                "token": "die", 
+                "global": 0.058710523087338644, 
+                "local": 0.04603449604605409
+            }, 
+            {
+                "count": 5, 
+                "token": "common position", 
+                "global": 0.05748072688793013, 
+                "local": 0.058983073262648233
+            }, 
+            {
+                "count": 8, 
+                "token": "point", 
+                "global": 0.05735651415996336, 
+                "local": 0.07468088505589209
+            }, 
+            {
+                "count": 3, 
+                "token": "digital age", 
+                "global": 0.05723011397167153, 
+                "local": 0.03864998398442469
+            }, 
+            {
+                "count": 12, 
+                "token": "europe", 
+                "global": 0.05642054473435257, 
+                "local": 0.08347187642015665
+            }
+        ], 
+        "size": 64
+    }, 
+    "2001": {
+        "top_phrases": [
+            {
+                "count": 19, 
+                "token": "copyright", 
+                "global": 0.3222614376894851, 
+                "local": 0.07296948917571859
+            }, 
+            {
+                "count": 7, 
+                "token": "rightholders", 
+                "global": 0.1645931300886923, 
+                "local": 0.1059131937817371
+            }, 
+            {
+                "count": 15, 
+                "token": "directive", 
+                "global": 0.11788063150205379, 
+                "local": 0.10887163578735534
+            }, 
+            {
+                "count": 5, 
+                "token": "private copying", 
+                "global": 0.11756652149192309, 
+                "local": 0.07918349903162783
+            }, 
+            {
+                "count": 7, 
+                "token": "works", 
+                "global": 0.11690662733754428, 
+                "local": 0.054965818838360214
+            }, 
+            {
+                "count": 10, 
+                "token": "internet", 
+                "global": 0.11382175846472772, 
+                "local": 0.06900995863740118
+            }, 
+            {
+                "count": 9, 
+                "token": "common position", 
+                "global": 0.11012475276958117, 
+                "local": 0.11569235941037813
+            }, 
+            {
+                "count": 6, 
+                "token": "artists", 
+                "global": 0.1081115141099249, 
+                "local": 0.060116261572467675
+            }, 
+            {
+                "count": 7, 
+                "token": "authors", 
+                "global": 0.10675210877428262, 
+                "local": 0.06764504383112331
+            }, 
+            {
+                "count": 7, 
+                "token": "exceptions", 
+                "global": 0.10538104374587332, 
+                "local": 0.0866932790571233
+            }, 
+            {
+                "count": 8, 
+                "token": "committee on legal affairs", 
+                "global": 0.09893076796576857, 
+                "local": 0.08265936070279546
+            }, 
+            {
+                "count": 6, 
+                "token": "new technologies", 
+                "global": 0.08587137845844453, 
+                "local": 0.08038336133901564
+            }, 
+            {
+                "count": 9, 
+                "token": "internal market", 
+                "global": 0.08250532553756855, 
+                "local": 0.09155177194330338
+            }, 
+            {
+                "count": 4, 
+                "token": "libraries", 
+                "global": 0.0794794269439062, 
+                "local": 0.044227595975199915
+            }, 
+            {
+                "count": 16, 
+                "token": "fact", 
+                "global": 0.07921537895375151, 
+                "local": 0.11191764008510305
+            }, 
+            {
+                "count": 7, 
+                "token": "balance", 
+                "global": 0.07795658273467773, 
+                "local": 0.07884788212261058
+            }, 
+            {
+                "count": 5, 
+                "token": "information society", 
+                "global": 0.0771970480573933, 
+                "local": 0.056861407060996474
+            }, 
+            {
+                "count": 3, 
+                "token": "mr boselli", 
+                "global": 0.07669374625688558, 
+                "local": 0.059109518701459494
+            }, 
+            {
+                "count": 10, 
+                "token": "amendments", 
+                "global": 0.07659656899318476, 
+                "local": 0.10251510421554616
+            }, 
+            {
+                "count": 10, 
+                "token": "same time", 
+                "global": 0.07553156337376221, 
+                "local": 0.09596539177933552
+            }, 
+            {
+                "count": 3, 
+                "token": "protection of copyright", 
+                "global": 0.07500039681315691, 
+                "local": 0.042116676596917264
+            }, 
+            {
+                "count": 8, 
+                "token": "consumers", 
+                "global": 0.07350910099735287, 
+                "local": 0.07624603036540006
+            }, 
+            {
+                "count": 3, 
+                "token": "copyright protection", 
+                "global": 0.07244704014496274, 
+                "local": 0.040795173288778463
+            }, 
+            {
+                "count": 3, 
+                "token": "artistic creation", 
+                "global": 0.07143372244839774, 
+                "local": 0.05607210048500453
+            }, 
+            {
+                "count": 4, 
+                "token": "art", 
+                "global": 0.06881731091373397, 
+                "local": 0.056155568795889683
+            }, 
+            {
+                "count": 3, 
+                "token": "e-commerce directive", 
+                "global": 0.0671870163364749, 
+                "local": 0.04875368173553565
+            }, 
+            {
+                "count": 3, 
+                "token": "related rights", 
+                "global": 0.06666345632380323, 
+                "local": 0.0359106801364939
+            }, 
+            {
+                "count": 3, 
+                "token": "museums", 
+                "global": 0.06309678195904406, 
+                "local": 0.040795173288778463
+            }, 
+            {
+                "count": 3, 
+                "token": "performers", 
+                "global": 0.06248936904607726, 
+                "local": 0.03962082562317203
+            }, 
+            {
+                "count": 10, 
+                "token": "course", 
+                "global": 0.06153999932694234, 
+                "local": 0.08421852682990245
+            }
+        ], 
+        "size": 49
+    }, 
+    "2006": {
+        "top_phrases": [
+            {
+                "count": 5, 
+                "token": "copyright", 
+                "global": 0.2520418119442485, 
+                "local": 0.054333261944525084
+            }, 
+            {
+                "count": 4, 
+                "token": "software", 
+                "global": 0.21382621789416106, 
+                "local": 0.1160261598617561
+            }, 
+            {
+                "count": 2, 
+                "token": "sweeping proposal", 
+                "global": 0.17279921670633522, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "new court", 
+                "global": 0.1623773791323619, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "patents on software", 
+                "global": 0.15628099496298076, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "last year parliament", 
+                "global": 0.15628099496298076, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "litigation", 
+                "global": 0.1381786216690005, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "scruples", 
+                "global": 0.13423383501158914, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "epo", 
+                "global": 0.13423383501158914, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "large corporations", 
+                "global": 0.12069002883646861, 
+                "local": 0.09196535011729866
+            }, 
+            {
+                "count": 2, 
+                "token": "precedents", 
+                "global": 0.11934266223279494, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "invention", 
+                "global": 0.11660136037882857, 
+                "local": 0.08562293086483704
+            }, 
+            {
+                "count": 2, 
+                "token": "serious doubts", 
+                "global": 0.11174829026369307, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 2, 
+                "token": "books", 
+                "global": 0.09984635368852199, 
+                "local": 0.051506739608949116
+            }, 
+            {
+                "count": 2, 
+                "token": "communications", 
+                "global": 0.0952300685203386, 
+                "local": 0.10577027558427815
+            }, 
+            {
+                "count": 2, 
+                "token": "materials", 
+                "global": 0.09438987602258403, 
+                "local": 0.09462480105987388
+            }, 
+            {
+                "count": 2, 
+                "token": "judges", 
+                "global": 0.09430838241720026, 
+                "local": 0.1013260822286314
+            }, 
+            {
+                "count": 2, 
+                "token": "reach", 
+                "global": 0.09406651875600126, 
+                "local": 0.10577027558427815
+            }, 
+            {
+                "count": 2, 
+                "token": "small businesses", 
+                "global": 0.09083994605525686, 
+                "local": 0.10577027558427815
+            }, 
+            {
+                "count": 2, 
+                "token": "seat", 
+                "global": 0.09045766613996281, 
+                "local": 0.11149983732782415
+            }, 
+            {
+                "count": 2, 
+                "token": "judiciary", 
+                "global": 0.08873574530620239, 
+                "local": 0.11957520105125762
+            }, 
+            {
+                "count": 1, 
+                "token": "cultural vibrancy", 
+                "global": 0.08639960835316761, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "certain forms of protection", 
+                "global": 0.08639960835316761, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "new ruling", 
+                "global": 0.08639960835316761, 
+                "local": 0.055749918663912074
+            }, 
+            {
+                "count": 1, 
+                "token": "conflict in terms", 
+                "global": 0.08639960835316761, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "good competition", 
+                "global": 0.08639960835316761, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "m.", 
+                "global": 0.08118868956618094, 
+                "local": 0.05978760052562881
+            }, 
+            {
+                "count": 1, 
+                "token": "insurance markets", 
+                "global": 0.08118868956618094, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "exchange rate policy", 
+                "global": 0.08118868956618094, 
+                "local": 0.06669006325911855
+            }, 
+            {
+                "count": 1, 
+                "token": "currency reserves", 
+                "global": 0.08118868956618094, 
+                "local": 0.06669006325911855
+            }
+        ], 
+        "size": 10
+    }, 
+    "2007": {
+        "top_phrases": [
+            {
+                "count": 22, 
+                "token": "copyright", 
+                "global": 0.34021908527492317, 
+                "local": 0.08000887896683766
+            }, 
+            {
+                "count": 16, 
+                "token": "cultural diversity", 
+                "global": 0.22839786098649242, 
+                "local": 0.17230400815375463
+            }, 
+            {
+                "count": 10, 
+                "token": "related rights", 
+                "global": 0.2026039110360967, 
+                "local": 0.11335225790768984
+            }, 
+            {
+                "count": 7, 
+                "token": "european digital library", 
+                "global": 0.16316161297917492, 
+                "local": 0.1108390394972661
+            }, 
+            {
+                "count": 7, 
+                "token": "collective cross-border management of copyright", 
+                "global": 0.15955910768949036, 
+                "local": 0.10772388380062566
+            }, 
+            {
+                "count": 6, 
+                "token": "related rights for legitimate online music services", 
+                "global": 0.13676494944813458, 
+                "local": 0.09808733385333462
+            }, 
+            {
+                "count": 6, 
+                "token": "mrs l\u00e9vai", 
+                "global": 0.1321088448075339, 
+                "local": 0.09808733385333462
+            }, 
+            {
+                "count": 6, 
+                "token": "composers", 
+                "global": 0.1321088448075339, 
+                "local": 0.08114451375478897
+            }, 
+            {
+                "count": 11, 
+                "token": "recommendation", 
+                "global": 0.1236852863224476, 
+                "local": 0.1375696876314043
+            }, 
+            {
+                "count": 8, 
+                "token": "committee on legal affairs", 
+                "global": 0.09020126595736844, 
+                "local": 0.0782744170028646
+            }, 
+            {
+                "count": 4, 
+                "token": "collective management of copyright", 
+                "global": 0.08949465516898941, 
+                "local": 0.05858180846878457
+            }, 
+            {
+                "count": 4, 
+                "token": "right-holders", 
+                "global": 0.08684069111336899, 
+                "local": 0.06333659399843777
+            }, 
+            {
+                "count": 4, 
+                "token": "rightholders", 
+                "global": 0.08575410292130743, 
+                "local": 0.05731124132785276
+            }, 
+            {
+                "count": 5, 
+                "token": "artists", 
+                "global": 0.08214326407076736, 
+                "local": 0.0474393269655976
+            }, 
+            {
+                "count": 6, 
+                "token": "committee on culture", 
+                "global": 0.07917112637936213, 
+                "local": 0.0784743803005257
+            }, 
+            {
+                "count": 4, 
+                "token": "commission\u2019s recommendation", 
+                "global": 0.07886079828331435, 
+                "local": 0.07079675652417408
+            }, 
+            {
+                "count": 6, 
+                "token": "users", 
+                "global": 0.0783753788719503, 
+                "local": 0.0680113547446139
+            }, 
+            {
+                "count": 14, 
+                "token": "proposal", 
+                "global": 0.07829578643637433, 
+                "local": 0.1110249290366962
+            }, 
+            {
+                "count": 22, 
+                "token": "report", 
+                "global": 0.07811771289220765, 
+                "local": 0.12613201595461326
+            }, 
+            {
+                "count": 4, 
+                "token": "publishers", 
+                "global": 0.07709824934627112, 
+                "local": 0.0500253409568743
+            }, 
+            {
+                "count": 4, 
+                "token": "performers", 
+                "global": 0.07596720161293283, 
+                "local": 0.0500253409568743
+            }, 
+            {
+                "count": 3, 
+                "token": "l\u00e9vai report", 
+                "global": 0.07472229278998034, 
+                "local": 0.05597385554810117
+            }, 
+            {
+                "count": 4, 
+                "token": "libraries", 
+                "global": 0.07246628198001195, 
+                "local": 0.04188139444780312
+            }, 
+            {
+                "count": 10, 
+                "token": "directive", 
+                "global": 0.07165268137827766, 
+                "local": 0.06873078255100551
+            }, 
+            {
+                "count": 22, 
+                "token": "commission", 
+                "global": 0.07115807374422453, 
+                "local": 0.10218789726777718
+            }, 
+            {
+                "count": 5, 
+                "token": "authors", 
+                "global": 0.06952318816377316, 
+                "local": 0.04575470360694543
+            }, 
+            {
+                "count": 9, 
+                "token": "rights", 
+                "global": 0.0678566436657073, 
+                "local": 0.07344257164325546
+            }, 
+            {
+                "count": 3, 
+                "token": "library", 
+                "global": 0.06712099137674206, 
+                "local": 0.04904366692666731
+            }, 
+            {
+                "count": 11, 
+                "token": "issue", 
+                "global": 0.06633619723601025, 
+                "local": 0.08976314311953446
+            }, 
+            {
+                "count": 11, 
+                "token": "rapporteur", 
+                "global": 0.062359836111322356, 
+                "local": 0.08976314311953446
+            }
+        ], 
+        "size": 51
+    }, 
+    "2004": {
+        "top_phrases": [
+            {
+                "count": 14, 
+                "token": "copyright", 
+                "global": 0.31645001124742334, 
+                "local": 0.07031856383865633
+            }, 
+            {
+                "count": 6, 
+                "token": "de", 
+                "global": 0.15685535971213216, 
+                "local": 0.08107884568599846
+            }, 
+            {
+                "count": 4, 
+                "token": "related rights", 
+                "global": 0.11845377450872245, 
+                "local": 0.06262051266274814
+            }, 
+            {
+                "count": 5, 
+                "token": "piracy", 
+                "global": 0.10881315400859844, 
+                "local": 0.06551865463016777
+            }, 
+            {
+                "count": 4, 
+                "token": "mrs fourtou", 
+                "global": 0.10782210329125755, 
+                "local": 0.09031255375933205
+            }, 
+            {
+                "count": 4, 
+                "token": "artists", 
+                "global": 0.0960512522180833, 
+                "local": 0.05241492370413421
+            }, 
+            {
+                "count": 3, 
+                "token": "right-holders", 
+                "global": 0.09519751732629367, 
+                "local": 0.06560582790272508
+            }, 
+            {
+                "count": 5, 
+                "token": "societies", 
+                "global": 0.0911565662276307, 
+                "local": 0.09031774811285373
+            }, 
+            {
+                "count": 3, 
+                "token": "cds", 
+                "global": 0.0864497059464952, 
+                "local": 0.07025199988048272
+            }, 
+            {
+                "count": 6, 
+                "token": "competition", 
+                "global": 0.08309155755039159, 
+                "local": 0.094973042532445
+            }, 
+            {
+                "count": 5, 
+                "token": "committee on legal affairs", 
+                "global": 0.08240123829757134, 
+                "local": 0.06756570473833205
+            }, 
+            {
+                "count": 2, 
+                "token": "als", 
+                "global": 0.07748475434130606, 
+                "local": 0.03735634343834853
+            }, 
+            {
+                "count": 7, 
+                "token": "directive", 
+                "global": 0.07331141047162419, 
+                "local": 0.06644706164107855
+            }, 
+            {
+                "count": 2, 
+                "token": "fields of tax", 
+                "global": 0.07281150674449152, 
+                "local": 0.05526972473554608
+            }, 
+            {
+                "count": 2, 
+                "token": "hr", 
+                "global": 0.07281150674449152, 
+                "local": 0.03504282902378594
+            }, 
+            {
+                "count": 5, 
+                "token": "men", 
+                "global": 0.07148917663787835, 
+                "local": 0.07165488465079436
+            }, 
+            {
+                "count": 8, 
+                "token": "issue", 
+                "global": 0.07051620985252913, 
+                "local": 0.09016164050529088
+            }, 
+            {
+                "count": 2, 
+                "token": "enforcement directive", 
+                "global": 0.07007783214376975, 
+                "local": 0.05526972473554608
+            }, 
+            {
+                "count": 2, 
+                "token": "consumer protection law", 
+                "global": 0.07007783214376975, 
+                "local": 0.05153715204313422
+            }, 
+            {
+                "count": 2, 
+                "token": "community\u2019s participation", 
+                "global": 0.07007783214376975, 
+                "local": 0.05526972473554608
+            }, 
+            {
+                "count": 2, 
+                "token": "da", 
+                "global": 0.06813825914767697, 
+                "local": 0.05526972473554608
+            }, 
+            {
+                "count": 2, 
+                "token": "commercial scale", 
+                "global": 0.06813825914767697, 
+                "local": 0.04683466658698848
+            }, 
+            {
+                "count": 2, 
+                "token": "systematic information", 
+                "global": 0.06813825914767697, 
+                "local": 0.05153715204313422
+            }, 
+            {
+                "count": 2, 
+                "token": "copyright directive", 
+                "global": 0.06813825914767697, 
+                "local": 0.04683466658698848
+            }, 
+            {
+                "count": 3, 
+                "token": "intellectual property rights", 
+                "global": 0.06452905356352738, 
+                "local": 0.044194426122082346
+            }, 
+            {
+                "count": 2, 
+                "token": "product piracy", 
+                "global": 0.06436528969839489, 
+                "local": 0.043737218601816716
+            }, 
+            {
+                "count": 11, 
+                "token": "mr president", 
+                "global": 0.06401631608331981, 
+                "local": 0.10441681115026631
+            }, 
+            {
+                "count": 4, 
+                "token": "november", 
+                "global": 0.06332017071158924, 
+                "local": 0.07471268687669706
+            }, 
+            {
+                "count": 2, 
+                "token": "private copying", 
+                "global": 0.06267090994623344, 
+                "local": 0.04142370418725414
+            }, 
+            {
+                "count": 2, 
+                "token": "labour laws", 
+                "global": 0.06267090994623344, 
+                "local": 0.05526972473554608
+            }
+        ], 
+        "size": 37
+    }, 
+    "2005": {
+        "top_phrases": [
+            {
+                "count": 19, 
+                "token": "software", 
+                "global": 0.3578563872375265, 
+                "local": 0.2205602997909386
+            }, 
+            {
+                "count": 16, 
+                "token": "copyright", 
+                "global": 0.2841690534432051, 
+                "local": 0.06958146568184863
+            }, 
+            {
+                "count": 13, 
+                "token": "patents", 
+                "global": 0.23088735592260412, 
+                "local": 0.1642673800313472
+            }, 
+            {
+                "count": 7, 
+                "token": "de", 
+                "global": 0.14378906871275735, 
+                "local": 0.08190039192177355
+            }, 
+            {
+                "count": 5, 
+                "token": "van", 
+                "global": 0.133847653084443, 
+                "local": 0.08086042161832174
+            }, 
+            {
+                "count": 7, 
+                "token": "patent", 
+                "global": 0.13184182687698345, 
+                "local": 0.10325449895118366
+            }, 
+            {
+                "count": 4, 
+                "token": "adpic", 
+                "global": 0.1217659816747696, 
+                "local": 0.08465867105771938
+            }, 
+            {
+                "count": 9, 
+                "token": "medium-sized enterprises", 
+                "global": 0.10367772780863392, 
+                "local": 0.12933726359488257
+            }, 
+            {
+                "count": 5, 
+                "token": "european patent office", 
+                "global": 0.09820533154638085, 
+                "local": 0.08756506471153992
+            }, 
+            {
+                "count": 8, 
+                "token": "innovation", 
+                "global": 0.09078098950945067, 
+                "local": 0.09009339247088627
+            }, 
+            {
+                "count": 4, 
+                "token": "software patents", 
+                "global": 0.0900260459940629, 
+                "local": 0.07173160705307163
+            }, 
+            {
+                "count": 10, 
+                "token": "directive", 
+                "global": 0.08229117309154997, 
+                "local": 0.08218818201845715
+            }, 
+            {
+                "count": 4, 
+                "token": "invention", 
+                "global": 0.08216518212157561, 
+                "local": 0.06853270920437637
+            }, 
+            {
+                "count": 3, 
+                "token": "software industry", 
+                "global": 0.07853542890095856, 
+                "local": 0.06082614953191204
+            }, 
+            {
+                "count": 3, 
+                "token": "it sector", 
+                "global": 0.07386470671159615, 
+                "local": 0.06349400329328952
+            }, 
+            {
+                "count": 3, 
+                "token": "computer programs", 
+                "global": 0.07386470671159615, 
+                "local": 0.06082614953191204
+            }, 
+            {
+                "count": 3, 
+                "token": "patentability of computer-implemented inventions", 
+                "global": 0.07094265966176089, 
+                "local": 0.06349400329328952
+            }, 
+            {
+                "count": 3, 
+                "token": "european patent convention", 
+                "global": 0.07035377636342223, 
+                "local": 0.05520689258830144
+            }, 
+            {
+                "count": 3, 
+                "token": "microsoft", 
+                "global": 0.07035377636342223, 
+                "local": 0.06082614953191204
+            }, 
+            {
+                "count": 3, 
+                "token": "patent law", 
+                "global": 0.06929269744525439, 
+                "local": 0.05864635429154663
+            }, 
+            {
+                "count": 6, 
+                "token": "men", 
+                "global": 0.06740641959646847, 
+                "local": 0.0744489677596551
+            }, 
+            {
+                "count": 14, 
+                "token": "mr president", 
+                "global": 0.0640185373021492, 
+                "local": 0.11506345482584
+            }, 
+            {
+                "count": 2, 
+                "token": "monsieur", 
+                "global": 0.0608829908373848, 
+                "local": 0.03909756952769775
+            }, 
+            {
+                "count": 2, 
+                "token": "gem plus", 
+                "global": 0.0608829908373848, 
+                "local": 0.04785407599885173
+            }, 
+            {
+                "count": 2, 
+                "token": "als", 
+                "global": 0.0608829908373848, 
+                "local": 0.0323441686473287
+            }, 
+            {
+                "count": 10, 
+                "token": "ladies", 
+                "global": 0.05864050642057379, 
+                "local": 0.09276031927716466
+            }, 
+            {
+                "count": 3, 
+                "token": "mr rocard", 
+                "global": 0.05852908734392121, 
+                "local": 0.06082614953191204
+            }, 
+            {
+                "count": 10, 
+                "token": "gentlemen", 
+                "global": 0.057752760118286575, 
+                "local": 0.09276031927716466
+            }, 
+            {
+                "count": 11, 
+                "token": "europe", 
+                "global": 0.057642255028993505, 
+                "local": 0.09441527796701867
+            }, 
+            {
+                "count": 2, 
+                "token": "hr", 
+                "global": 0.057211026035580995, 
+                "local": 0.030341063056543757
+            }
+        ], 
+        "size": 46
+    }, 
+    "2014": {
+        "top_phrases": [
+            {
+                "count": 5, 
+                "token": "artists", 
+                "global": 0.34707659456789985, 
+                "local": 0.20408554833639042
+            }, 
+            {
+                "count": 3, 
+                "token": "collective management of copyright", 
+                "global": 0.2836035964067745, 
+                "local": 0.18901565328739944
+            }, 
+            {
+                "count": 2, 
+                "token": "cmos", 
+                "global": 0.19262246047675674, 
+                "local": 0.17216092336947303
+            }, 
+            {
+                "count": 3, 
+                "token": "governance", 
+                "global": 0.174103286831182, 
+                "local": 0.2284274851667679
+            }, 
+            {
+                "count": 2, 
+                "token": "related rights", 
+                "global": 0.171210813896963, 
+                "local": 0.09752902998406783
+            }, 
+            {
+                "count": 2, 
+                "token": "digital single market", 
+                "global": 0.15209472577631153, 
+                "local": 0.13623805756460605
+            }, 
+            {
+                "count": 2, 
+                "token": "music", 
+                "global": 0.13628992241702087, 
+                "local": 0.09861123050535862
+            }, 
+            {
+                "count": 2, 
+                "token": "copyright", 
+                "global": 0.13068307919651784, 
+                "local": 0.031290984966139045
+            }, 
+            {
+                "count": 2, 
+                "token": "legal framework", 
+                "global": 0.11224873602464192, 
+                "local": 0.12903163886530108
+            }, 
+            {
+                "count": 1, 
+                "token": "rules of intellectual property", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "services for consumers", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "old barriers", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "other related rights", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "rights of individual artists", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "recent dispute", 
+                "global": 0.11199497787556256, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 2, 
+                "token": "completion", 
+                "global": 0.11090828958997832, 
+                "local": 0.17216092336947303
+            }, 
+            {
+                "count": 1, 
+                "token": "musical works", 
+                "global": 0.10524035542548836, 
+                "local": 0.07032915724411992
+            }, 
+            {
+                "count": 1, 
+                "token": "welcome first step", 
+                "global": 0.10524035542548836, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "consumer access", 
+                "global": 0.1012891545856657, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "major initiatives", 
+                "global": 0.1012891545856657, 
+                "local": 0.08608046168473651
+            }, 
+            {
+                "count": 1, 
+                "token": "declaration of vote", 
+                "global": 0.1012891545856657, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "huge growth", 
+                "global": 0.1012891545856657, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "utmost transparency", 
+                "global": 0.09848573297541417, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "strong legal framework", 
+                "global": 0.09848573297541417, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "mrs gallo", 
+                "global": 0.09848573297541417, 
+                "local": 0.07294318439161372
+            }, 
+            {
+                "count": 1, 
+                "token": "changes in technology", 
+                "global": 0.09848573297541417, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "management bodies", 
+                "global": 0.09631123023837837, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "tapes", 
+                "global": 0.09631123023837837, 
+                "local": 0.09601842831388378
+            }, 
+            {
+                "count": 1, 
+                "token": "copyright law", 
+                "global": 0.09303235529370597, 
+                "local": 0.06039119061497266
+            }, 
+            {
+                "count": 1, 
+                "token": "equitable distribution", 
+                "global": 0.09303235529370597, 
+                "local": 0.09601842831388378
+            }
+        ], 
+        "size": 16
+    }, 
+    "2008": {
+        "top_phrases": [
+            {
+                "count": 10, 
+                "token": "copyright", 
+                "global": 0.2442795823031547, 
+                "local": 0.05152126394410436
+            }, 
+            {
+                "count": 8, 
+                "token": "internet", 
+                "global": 0.1311437830026035, 
+                "local": 0.07406287350394174
+            }, 
+            {
+                "count": 10, 
+                "token": "madam president", 
+                "global": 0.12056268033249934, 
+                "local": 0.1588665400378269
+            }, 
+            {
+                "count": 3, 
+                "token": "castillo", 
+                "global": 0.11360096131566531, 
+                "local": 0.0792969031735594
+            }, 
+            {
+                "count": 11, 
+                "token": "example", 
+                "global": 0.09789297217495087, 
+                "local": 0.12221547171898739
+            }, 
+            {
+                "count": 3, 
+                "token": "mrs trautmann", 
+                "global": 0.09601083712216592, 
+                "local": 0.07522213038739752
+            }, 
+            {
+                "count": 7, 
+                "token": "consumers", 
+                "global": 0.09263638390576419, 
+                "local": 0.08950021828237453
+            }, 
+            {
+                "count": 3, 
+                "token": "de", 
+                "global": 0.08475775722369136, 
+                "local": 0.04158360277265325
+            }, 
+            {
+                "count": 7, 
+                "token": "access", 
+                "global": 0.08385133845074606, 
+                "local": 0.06538997984327097
+            }, 
+            {
+                "count": 5, 
+                "token": "content", 
+                "global": 0.08047213120343498, 
+                "local": 0.07703049398828966
+            }, 
+            {
+                "count": 2, 
+                "token": "privacy directive", 
+                "global": 0.07868828993879064, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 2, 
+                "token": "effective redress", 
+                "global": 0.07573397421044355, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 2, 
+                "token": "ip", 
+                "global": 0.07573397421044355, 
+                "local": 0.05286460211570627
+            }, 
+            {
+                "count": 2, 
+                "token": "products on sale", 
+                "global": 0.07573397421044355, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 2, 
+                "token": "safety of goods", 
+                "global": 0.07363785384296408, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 3, 
+                "token": "mr harbour", 
+                "global": 0.07346756571514555, 
+                "local": 0.06540428791956726
+            }, 
+            {
+                "count": 2, 
+                "token": "fake medicines", 
+                "global": 0.07201197657228427, 
+                "local": 0.05014808692493167
+            }, 
+            {
+                "count": 2, 
+                "token": "public awareness campaigns", 
+                "global": 0.07068353811461699, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 2, 
+                "token": "collective management of copyright", 
+                "global": 0.07068353811461699, 
+                "local": 0.04149576573199628
+            }, 
+            {
+                "count": 3, 
+                "token": "piracy", 
+                "global": 0.07055742748323757, 
+                "local": 0.040323737003720814
+            }, 
+            {
+                "count": 5, 
+                "token": "protection", 
+                "global": 0.0704776198125471, 
+                "local": 0.06436999105315645
+            }, 
+            {
+                "count": 2, 
+                "token": "copyright law", 
+                "global": 0.06956035940246112, 
+                "local": 0.039774145491932596
+            }, 
+            {
+                "count": 2, 
+                "token": "economy in europe", 
+                "global": 0.06956035940246112, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 4, 
+                "token": "goods", 
+                "global": 0.06897835185710115, 
+                "local": 0.06990107484021887
+            }, 
+            {
+                "count": 2, 
+                "token": "modernised customs code", 
+                "global": 0.06858741774713752, 
+                "local": 0.05669331523681849
+            }, 
+            {
+                "count": 2, 
+                "token": "harbour", 
+                "global": 0.06772922238626988, 
+                "local": 0.05014808692493167
+            }, 
+            {
+                "count": 6, 
+                "token": "problems", 
+                "global": 0.06619470192204224, 
+                "local": 0.09336547289699162
+            }, 
+            {
+                "count": 5, 
+                "token": "colleagues", 
+                "global": 0.06609870463703403, 
+                "local": 0.08029179812427033
+            }, 
+            {
+                "count": 6, 
+                "token": "point", 
+                "global": 0.06594268582932751, 
+                "local": 0.08187933353365491
+            }, 
+            {
+                "count": 2, 
+                "token": "counterfeit", 
+                "global": 0.06563310201879043, 
+                "local": 0.05669331523681849
+            }
+        ], 
+        "size": 35
+    }, 
+    "2009": {
+        "top_phrases": [
+            {
+                "count": 28, 
+                "token": "copyright", 
+                "global": 0.41998174684309886, 
+                "local": 0.10427393575219221
+            }, 
+            {
+                "count": 13, 
+                "token": "google", 
+                "global": 0.24858843627291327, 
+                "local": 0.17410940319109128
+            }, 
+            {
+                "count": 12, 
+                "token": "authors", 
+                "global": 0.16183681164295038, 
+                "local": 0.1124473482258018
+            }, 
+            {
+                "count": 9, 
+                "token": "artists", 
+                "global": 0.14341046821503134, 
+                "local": 0.087440625198725
+            }, 
+            {
+                "count": 9, 
+                "token": "works", 
+                "global": 0.13292334019538823, 
+                "local": 0.0685278649556031
+            }, 
+            {
+                "count": 13, 
+                "token": "internet", 
+                "global": 0.13085378464100883, 
+                "local": 0.08699316847565419
+            }, 
+            {
+                "count": 6, 
+                "token": "print", 
+                "global": 0.1233479415944697, 
+                "local": 0.09728551765355356
+            }, 
+            {
+                "count": 6, 
+                "token": "performers", 
+                "global": 0.11052328387826026, 
+                "local": 0.07683932594962513
+            }, 
+            {
+                "count": 5, 
+                "token": "orphan works", 
+                "global": 0.09753304964375009, 
+                "local": 0.06077268214847367
+            }, 
+            {
+                "count": 5, 
+                "token": "publishers", 
+                "global": 0.09347402034577683, 
+                "local": 0.0640327716246876
+            }, 
+            {
+                "count": 4, 
+                "token": "google books", 
+                "global": 0.09300492751667591, 
+                "local": 0.06945015296205882
+            }, 
+            {
+                "count": 4, 
+                "token": "herr pr\u00e4sident", 
+                "global": 0.09043079186783295, 
+                "local": 0.06142634936274163
+            }, 
+            {
+                "count": 8, 
+                "token": "committee on legal affairs", 
+                "global": 0.08748810813014057, 
+                "local": 0.08015342259949146
+            }, 
+            {
+                "count": 16, 
+                "token": "years", 
+                "global": 0.08705037380660947, 
+                "local": 0.1403255500600382
+            }, 
+            {
+                "count": 11, 
+                "token": "access", 
+                "global": 0.0809077008389315, 
+                "local": 0.07427404466824576
+            }, 
+            {
+                "count": 7, 
+                "token": "extension", 
+                "global": 0.07878308305784198, 
+                "local": 0.10062366424384657
+            }, 
+            {
+                "count": 5, 
+                "token": "books", 
+                "global": 0.07427488935718843, 
+                "local": 0.04412919736138364
+            }, 
+            {
+                "count": 5, 
+                "token": "creativity", 
+                "global": 0.07265105604040244, 
+                "local": 0.06004646205930247
+            }, 
+            {
+                "count": 3, 
+                "token": "hr", 
+                "global": 0.07247472595818705, 
+                "local": 0.0389732117245606
+            }, 
+            {
+                "count": 4, 
+                "token": "digital age", 
+                "global": 0.07182426363858362, 
+                "local": 0.054453131487375996
+            }, 
+            {
+                "count": 8, 
+                "token": "compromise", 
+                "global": 0.07161205174747735, 
+                "local": 0.0984499025444762
+            }, 
+            {
+                "count": 4, 
+                "token": "libraries", 
+                "global": 0.0702865735460184, 
+                "local": 0.04288677241898724
+            }, 
+            {
+                "count": 3, 
+                "token": "ich", 
+                "global": 0.06782309390087472, 
+                "local": 0.04154620852928117
+            }, 
+            {
+                "count": 3, 
+                "token": "bookshops", 
+                "global": 0.06782309390087472, 
+                "local": 0.05437219363908923
+            }, 
+            {
+                "count": 3, 
+                "token": "youtube", 
+                "global": 0.06632560285454717, 
+                "local": 0.05437219363908923
+            }, 
+            {
+                "count": 6, 
+                "token": "culture", 
+                "global": 0.062044418624516276, 
+                "local": 0.06109031392371948
+            }, 
+            {
+                "count": 11, 
+                "token": "proposal", 
+                "global": 0.05966771857273301, 
+                "local": 0.08932795337765069
+            }, 
+            {
+                "count": 8, 
+                "token": "madam president", 
+                "global": 0.059222685524901626, 
+                "local": 0.09186575528476144
+            }, 
+            {
+                "count": 3, 
+                "token": "till", 
+                "global": 0.05895294047655473, 
+                "local": 0.05437219363908923
+            }, 
+            {
+                "count": 4, 
+                "token": "book", 
+                "global": 0.05812084483232195, 
+                "local": 0.057499236710769466
+            }
+        ], 
+        "size": 78
+    }, 
+    "2011": {
+        "top_phrases": [
+            {
+                "count": 10, 
+                "token": "copyright", 
+                "global": 0.27784176978671465, 
+                "local": 0.05934570743257454
+            }, 
+            {
+                "count": 5, 
+                "token": "de", 
+                "global": 0.16067139851362425, 
+                "local": 0.0798313853096853
+            }, 
+            {
+                "count": 4, 
+                "token": "creative industries", 
+                "global": 0.1330443189122584, 
+                "local": 0.08163264416838437
+            }, 
+            {
+                "count": 3, 
+                "token": "vi", 
+                "global": 0.11098089042402887, 
+                "local": 0.06303915578155136
+            }, 
+            {
+                "count": 5, 
+                "token": "wto", 
+                "global": 0.09656314286747852, 
+                "local": 0.10671376814352639
+            }, 
+            {
+                "count": 6, 
+                "token": "sector", 
+                "global": 0.09568766643740217, 
+                "local": 0.1075447225995875
+            }, 
+            {
+                "count": 5, 
+                "token": "single market", 
+                "global": 0.09374637529448045, 
+                "local": 0.10064603474185596
+            }, 
+            {
+                "count": 5, 
+                "token": "internet", 
+                "global": 0.09322622367377463, 
+                "local": 0.05331916967513159
+            }, 
+            {
+                "count": 3, 
+                "token": "european patent", 
+                "global": 0.0928266716665765, 
+                "local": 0.08300534262100306
+            }, 
+            {
+                "count": 4, 
+                "token": "aspect", 
+                "global": 0.0832879026568839, 
+                "local": 0.10044949569874746
+            }, 
+            {
+                "count": 2, 
+                "token": "development of information", 
+                "global": 0.08039492756369537, 
+                "local": 0.06530322903330005
+            }, 
+            {
+                "count": 3, 
+                "token": "vat", 
+                "global": 0.07866239736664837, 
+                "local": 0.08300534262100306
+            }, 
+            {
+                "count": 2, 
+                "token": "same products", 
+                "global": 0.07801081593596335, 
+                "local": 0.06530322903330005
+            }, 
+            {
+                "count": 2, 
+                "token": "creative sector", 
+                "global": 0.07801081593596335, 
+                "local": 0.05022474784937373
+            }, 
+            {
+                "count": 2, 
+                "token": "media programme", 
+                "global": 0.07616155528927918, 
+                "local": 0.06530322903330005
+            }, 
+            {
+                "count": 2, 
+                "token": "vat directive", 
+                "global": 0.07616155528927918, 
+                "local": 0.06530322903330005
+            }, 
+            {
+                "count": 2, 
+                "token": "social innovation", 
+                "global": 0.07537168991471431, 
+                "local": 0.06530322903330005
+            }, 
+            {
+                "count": 2, 
+                "token": "google", 
+                "global": 0.07084231067911988, 
+                "local": 0.042685507257410556
+            }, 
+            {
+                "count": 2, 
+                "token": "magazines", 
+                "global": 0.06856796640267793, 
+                "local": 0.06089305600308684
+            }, 
+            {
+                "count": 5, 
+                "token": "access", 
+                "global": 0.06812277512537035, 
+                "local": 0.0538004576824657
+            }, 
+            {
+                "count": 4, 
+                "token": "products", 
+                "global": 0.06799809528190731, 
+                "local": 0.0774764954117958
+            }, 
+            {
+                "count": 2, 
+                "token": "digital single market", 
+                "global": 0.06467289880944503, 
+                "local": 0.051677145440838936
+            }, 
+            {
+                "count": 5, 
+                "token": "development", 
+                "global": 0.06436238366846869, 
+                "local": 0.08248637667991192
+            }, 
+            {
+                "count": 2, 
+                "token": "online", 
+                "global": 0.0642685594054497, 
+                "local": 0.0458145748191605
+            }, 
+            {
+                "count": 5, 
+                "token": "same time", 
+                "global": 0.06186446700956866, 
+                "local": 0.07414574806671062
+            }, 
+            {
+                "count": 5, 
+                "token": "measures", 
+                "global": 0.06156103400436139, 
+                "local": 0.093511809255445
+            }, 
+            {
+                "count": 4, 
+                "token": "economy", 
+                "global": 0.06151120812745727, 
+                "local": 0.07243396422362364
+            }, 
+            {
+                "count": 8, 
+                "token": "eu", 
+                "global": 0.06131158822876411, 
+                "local": 0.08972533373016159
+            }, 
+            {
+                "count": 4, 
+                "token": "jobs", 
+                "global": 0.05985994023773693, 
+                "local": 0.08827580969775158
+            }, 
+            {
+                "count": 2, 
+                "token": "artists", 
+                "global": 0.059032814885715275, 
+                "local": 0.030965087883029107
+            }
+        ], 
+        "size": 40
+    }, 
+    "2010": {
+        "top_phrases": [
+            {
+                "count": 36, 
+                "token": "acta", 
+                "global": 0.4001315272694983, 
+                "local": 0.21527442101373612
+            }, 
+            {
+                "count": 29, 
+                "token": "copyright", 
+                "global": 0.3207066863463688, 
+                "local": 0.07997147789004166
+            }, 
+            {
+                "count": 27, 
+                "token": "internet", 
+                "global": 0.20037536771620498, 
+                "local": 0.13379039941880144
+            }, 
+            {
+                "count": 12, 
+                "token": "gallo report", 
+                "global": 0.19560449461937504, 
+                "local": 0.12773288568122013
+            }, 
+            {
+                "count": 15, 
+                "token": "anti-counterfeiting trade agreement", 
+                "global": 0.1775103328900837, 
+                "local": 0.1190896504023717
+            }, 
+            {
+                "count": 11, 
+                "token": "piracy", 
+                "global": 0.11712160533396514, 
+                "local": 0.07913758978288249
+            }, 
+            {
+                "count": 9, 
+                "token": "counterfeiting", 
+                "global": 0.10194202469715792, 
+                "local": 0.08100284983391635
+            }, 
+            {
+                "count": 7, 
+                "token": "enforcement of intellectual property rights", 
+                "global": 0.09809783967070854, 
+                "local": 0.07605004638605212
+            }, 
+            {
+                "count": 9, 
+                "token": "works", 
+                "global": 0.09800288901654376, 
+                "local": 0.050744221089301746
+            }, 
+            {
+                "count": 16, 
+                "token": "negotiations", 
+                "global": 0.09627831186937869, 
+                "local": 0.13326179192397358
+            }, 
+            {
+                "count": 9, 
+                "token": "intellectual property rights", 
+                "global": 0.09471297689855336, 
+                "local": 0.07279204508203624
+            }, 
+            {
+                "count": 18, 
+                "token": "agreement", 
+                "global": 0.0866556635615204, 
+                "local": 0.1082397033071103
+            }, 
+            {
+                "count": 5, 
+                "token": "protection of copyright", 
+                "global": 0.08150187275807293, 
+                "local": 0.05040252138656294
+            }, 
+            {
+                "count": 14, 
+                "token": "text", 
+                "global": 0.08145863167667657, 
+                "local": 0.09580864662133827
+            }, 
+            {
+                "count": 17, 
+                "token": "resolution", 
+                "global": 0.07581805708136365, 
+                "local": 0.11555078353709927
+            }, 
+            {
+                "count": 8, 
+                "token": "freedom of expression", 
+                "global": 0.07037346404368686, 
+                "local": 0.08353705890763036
+            }, 
+            {
+                "count": 5, 
+                "token": "trademarks", 
+                "global": 0.07006988547907753, 
+                "local": 0.055525746634988986
+            }, 
+            {
+                "count": 30, 
+                "token": "commission", 
+                "global": 0.06938998313758399, 
+                "local": 0.10566220174354475
+            }, 
+            {
+                "count": 4, 
+                "token": "mrs gallo", 
+                "global": 0.06667360936065977, 
+                "local": 0.05142716643624814
+            }, 
+            {
+                "count": 5, 
+                "token": "internet service providers", 
+                "global": 0.06619403078233159, 
+                "local": 0.055525746634988986
+            }, 
+            {
+                "count": 12, 
+                "token": "access", 
+                "global": 0.0650752811705768, 
+                "local": 0.05999913990582473
+            }, 
+            {
+                "count": 10, 
+                "token": "protection", 
+                "global": 0.06381225207991092, 
+                "local": 0.06890711379466091
+            }, 
+            {
+                "count": 6, 
+                "token": "enforcement", 
+                "global": 0.060354955620803355, 
+                "local": 0.06265279418072277
+            }, 
+            {
+                "count": 10, 
+                "token": "hand", 
+                "global": 0.06027771480126014, 
+                "local": 0.08165767625658411
+            }, 
+            {
+                "count": 6, 
+                "token": "authors", 
+                "global": 0.05966023373668442, 
+                "local": 0.041633086795951894
+            }, 
+            {
+                "count": 17, 
+                "token": "european parliament", 
+                "global": 0.05893504708856136, 
+                "local": 0.09839297628256122
+            }, 
+            {
+                "count": 5, 
+                "token": "artists", 
+                "global": 0.0587416283184517, 
+                "local": 0.03597163171949204
+            }, 
+            {
+                "count": 15, 
+                "token": "today", 
+                "global": 0.05863785948941913, 
+                "local": 0.09741535534492601
+            }, 
+            {
+                "count": 8, 
+                "token": "content", 
+                "global": 0.058289232075877315, 
+                "local": 0.06596799444047445
+            }, 
+            {
+                "count": 7, 
+                "token": "assessment", 
+                "global": 0.05663026811475852, 
+                "local": 0.07178398620174678
+            }
+        ], 
+        "size": 119
+    }, 
+    "2013": {
+        "top_phrases": [
+            {
+                "count": 2, 
+                "token": "cloud computing", 
+                "global": 0.20078315993402948, 
+                "local": 0.15443862726564517
+            }, 
+            {
+                "count": 3, 
+                "token": "copyright", 
+                "global": 0.1942875451349101, 
+                "local": 0.042104822651212695
+            }, 
+            {
+                "count": 2, 
+                "token": "cloud", 
+                "global": 0.1724579087180389, 
+                "local": 0.15443862726564517
+            }, 
+            {
+                "count": 2, 
+                "token": "creative industries", 
+                "global": 0.1550574039284522, 
+                "local": 0.09652840825835239
+            }, 
+            {
+                "count": 2, 
+                "token": "delivery", 
+                "global": 0.13939265495510345, 
+                "local": 0.15443862726564517
+            }, 
+            {
+                "count": 2, 
+                "token": "b", 
+                "global": 0.12421085644435056, 
+                "local": 0.15443862726564517
+            }, 
+            {
+                "count": 1, 
+                "token": "disabled people in other countries", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "clause in article d", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "full benefits of digitisation", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "prime minister katainen", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "great champion", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "sending of accessible books", 
+                "global": 0.1110025335218834, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "print-disabled people", 
+                "global": 0.1110025335218834, 
+                "local": 0.07721931363282258
+            }, 
+            {
+                "count": 2, 
+                "token": "job creation", 
+                "global": 0.10523362494760438, 
+                "local": 0.13660872842473973
+            }, 
+            {
+                "count": 1, 
+                "token": "competiveness", 
+                "global": 0.10430776721035194, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "world blind union", 
+                "global": 0.10430776721035194, 
+                "local": 0.06830436421236986
+            }, 
+            {
+                "count": 1, 
+                "token": "great role", 
+                "global": 0.10039157996701474, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "gaming", 
+                "global": 0.10039157996701474, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "european blind union", 
+                "global": 0.10039157996701474, 
+                "local": 0.06110683591787274
+            }, 
+            {
+                "count": 1, 
+                "token": "productivity levels", 
+                "global": 0.10039157996701474, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "times of financial crisis", 
+                "global": 0.10039157996701474, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "legacies", 
+                "global": 0.10039157996701474, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "musicians", 
+                "global": 0.09761300089882048, 
+                "local": 0.07200440252603194
+            }, 
+            {
+                "count": 1, 
+                "token": "herr pr\u00e4sident", 
+                "global": 0.09761300089882048, 
+                "local": 0.05787454199878854
+            }, 
+            {
+                "count": 1, 
+                "token": "ad", 
+                "global": 0.09761300089882048, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "innovative technology", 
+                "global": 0.09761300089882048, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "incumbents", 
+                "global": 0.09545776753443305, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "caveats", 
+                "global": 0.09545776753443305, 
+                "local": 0.08613426305327533
+            }, 
+            {
+                "count": 1, 
+                "token": "open standards", 
+                "global": 0.09545776753443305, 
+                "local": 0.07721931363282258
+            }, 
+            {
+                "count": 1, 
+                "token": "blind people", 
+                "global": 0.09545776753443305, 
+                "local": 0.05787454199878854
+            }
+        ], 
+        "size": 9
+    }, 
+    "2012": {
+        "top_phrases": [
+            {
+                "count": 69, 
+                "token": "copyright", 
+                "global": 0.3665446299275998, 
+                "local": 0.10836711529297324
+            }, 
+            {
+                "count": 50, 
+                "token": "works", 
+                "global": 0.26153759581553576, 
+                "local": 0.16055557246911994
+            }, 
+            {
+                "count": 34, 
+                "token": "world intellectual property organisation", 
+                "global": 0.23489085180494812, 
+                "local": 0.15235656735213757
+            }, 
+            {
+                "count": 44, 
+                "token": "books", 
+                "global": 0.23148884707538248, 
+                "local": 0.1637719001239448
+            }, 
+            {
+                "count": 38, 
+                "token": "blind", 
+                "global": 0.21561615487719266, 
+                "local": 0.16590326385845042
+            }, 
+            {
+                "count": 39, 
+                "token": "acta", 
+                "global": 0.2082248854797278, 
+                "local": 0.13282072118879376
+            }, 
+            {
+                "count": 27, 
+                "token": "impaired people", 
+                "global": 0.17785773229193938, 
+                "local": 0.13075494261804715
+            }, 
+            {
+                "count": 54, 
+                "token": "access", 
+                "global": 0.14066832653285016, 
+                "local": 0.15376901643653393
+            }, 
+            {
+                "count": 20, 
+                "token": "braille", 
+                "global": 0.13817108929702832, 
+                "local": 0.10654075529076379
+            }, 
+            {
+                "count": 21, 
+                "token": "libraries", 
+                "global": 0.1306884062446742, 
+                "local": 0.09495401957961828
+            }, 
+            {
+                "count": 20, 
+                "token": "international treaty", 
+                "global": 0.12326114718065488, 
+                "local": 0.10654075529076379
+            }, 
+            {
+                "count": 18, 
+                "token": "wipo", 
+                "global": 0.12267432851287728, 
+                "local": 0.09226597853138276
+            }, 
+            {
+                "count": 32, 
+                "token": "internet", 
+                "global": 0.11407705484938754, 
+                "local": 0.0903072177376498
+            }, 
+            {
+                "count": 15, 
+                "token": "orphan works", 
+                "global": 0.10362831697277122, 
+                "local": 0.07688831544281896
+            }, 
+            {
+                "count": 18, 
+                "token": "anti-counterfeiting trade agreement", 
+                "global": 0.1023228524288563, 
+                "local": 0.08138915963967282
+            }, 
+            {
+                "count": 16, 
+                "token": "archives", 
+                "global": 0.10136043867432906, 
+                "local": 0.08103415157946896
+            }, 
+            {
+                "count": 14, 
+                "token": "large print", 
+                "global": 0.1008756919117653, 
+                "local": 0.08037511213495868
+            }, 
+            {
+                "count": 13, 
+                "token": "other printed products", 
+                "global": 0.09832541218482864, 
+                "local": 0.0773114545461551
+            }, 
+            {
+                "count": 18, 
+                "token": "piracy", 
+                "global": 0.09206288709328891, 
+                "local": 0.07375202294973611
+            }, 
+            {
+                "count": 13, 
+                "token": "formats", 
+                "global": 0.09194974652335981, 
+                "local": 0.0773114545461551
+            }, 
+            {
+                "count": 12, 
+                "token": "audio", 
+                "global": 0.08487668909848597, 
+                "local": 0.07136441958106625
+            }, 
+            {
+                "count": 46, 
+                "token": "favour", 
+                "global": 0.08222161070079129, 
+                "local": 0.14695449282891204
+            }, 
+            {
+                "count": 16, 
+                "token": "authors", 
+                "global": 0.07642253449724995, 
+                "local": 0.06322933905636673
+            }, 
+            {
+                "count": 9, 
+                "token": "copyright committee", 
+                "global": 0.0741129095004052, 
+                "local": 0.05828649105980628
+            }, 
+            {
+                "count": 9, 
+                "token": "print-disabled persons", 
+                "global": 0.07206165600794634, 
+                "local": 0.05828649105980628
+            }, 
+            {
+                "count": 9, 
+                "token": "copyright holders", 
+                "global": 0.0691705765882634, 
+                "local": 0.05166971494390201
+            }, 
+            {
+                "count": 10, 
+                "token": "museums", 
+                "global": 0.06587323418219977, 
+                "local": 0.0556094045092858
+            }, 
+            {
+                "count": 8, 
+                "token": "\u2018accessible formats\u2019", 
+                "global": 0.06405480534039674, 
+                "local": 0.053166352592876796
+            }, 
+            {
+                "count": 9, 
+                "token": "rights holders", 
+                "global": 0.06365751682386449, 
+                "local": 0.05352331468579968
+            }, 
+            {
+                "count": 10, 
+                "token": "creative industries", 
+                "global": 0.06359406363502325, 
+                "local": 0.05400860791727312
+            }
+        ], 
+        "size": 191
+    }
+}
